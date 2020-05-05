@@ -1,0 +1,19 @@
+Reader done
+Parser done
+Urllinkranker done
+Wordlinkranker done
+creator done
+lister done
+
+urlrejector
+spammer
+unaccessor
+cleaner
+domainrejector
+
+ranker
+learner
+domainadm
+urladm
+scankeywordadm
+acceptkeywordadm

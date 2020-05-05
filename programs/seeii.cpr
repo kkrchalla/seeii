@@ -1,0 +1,20 @@
+[General]
+Signature=ConTEXT project file
+FilesCount=1
+ActiveFile=1
+Maximized=1
+RelativePath=0
+Root=
+
+[File1]
+Name=test.pl
+Open=1
+Left=0
+Top=0
+Width=665
+Height=361
+TopLine=0
+CursorX=56
+CursorY=2
+Highlighter=
+BookmarkCount=0

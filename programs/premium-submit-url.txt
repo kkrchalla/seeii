@@ -1,0 +1,13 @@
+10 readers	150000	daytime
+10 parsers	150000	daytime
+
+10 loaders	nighttime
+
+submit	into queue 11
+
+premiums
+premiums will be tagged
+they will be the first ones to be picked from the submitted ones
+and their linkranks and word link ranks will be calculated the very same night
+and their word ranks will also be calculated the very same night
+their information on the tables will be updated to the production the very same night or the next day

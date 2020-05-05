@@ -1,0 +1,76 @@
+Pay Services
+============
+
+   Pay Per Density
+
+	There will be no priority in the ads.
+	All ads are created equal.
+	All ads will be displayed. 
+	Everybody will get the opportunity.
+	Advertiser cannot control the position of the ad. 
+	But can control the density of the ads.
+	He can buy 10 spots as opposed to 1 spot to get his ad displayed 10 times more than the one with just one spot.
+	So, the advertisers will buy the units for the keywords
+
+		Ads can be in any of the 10 languages.
+		All they have to do is tag that language other than english 
+			<telugu>thelugu</telugu>
+			<tamil>thamil</tamil>
+			<hindi>hindhi</hindi>
+			<punjabi>panjaabi</punjabi>
+			<gujarati>gujaraathi</gujarati>
+			<kannada>kannada</kannada>
+			<bengali>bengaali</bengali>
+			<malayalam>malayaalam<malayalam>
+		A help page with all the syllables will be given for each language.
+
+
+   Pay For Indexing
+
+	Webmasters can submit their URL for a small fee and their site will be indexed in 2 business days.
+
+   Pay For API
+
+	Webmasters can use the API for a fee.
+	API is a program they can call with a query and the results will be sent as an XML document.
+	The webmasters can parse this document and use it for their own purpose.
+	A 1000 requests a day can be available for Free.
+	A 10000 requests a day can be available for a small fee.
+	Unlimited requests a day can be available for a large fee.
+
+Free resources
+==============
+
+	Submit Url - it could take more than a week to 3 months with this service.
+	API - 1000 - API for upto 1000 requests a day is free.
+	Build Your Own Auto-Directory
+	Calculator - cal: A query starting with 'calc:' followed by a mathematical expression 
+		will perform a calculation.
+	Language Convertor - lang:---: A query starting with 'lang:<language>:' followed by 
+		english typed words will convert the words to the language specified and display it.
+		Ex: lang:telugu:krushna kishoor reddi challa
+	Flight Schedules of India - flight:
+	Movie Timings - movie:
+	Maps - map:
+	Weather - weather:
+	
+
+
+Promotional Services
+====================
+
+   Build Your Own Auto-Directory
+
+	Users can create a free account and build a directory of their interest.
+	With this option they can add different categories, sub-categories and give specific keywords for each.
+	The seeii search will give top 20 results as per the keywords of each directory.
+	In these results seeii will display sponsored ads. 
+	This could be made as a pay service where user can receive the results in an xml format and no ads.
+	These directories will also be included in the search with dir:
+	The keywords specified in each category will be taken and used for search for a directory.
+
+
+   Email Alerts
+
+	Email Alerts for the News.
+

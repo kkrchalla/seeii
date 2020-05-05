@@ -1,0 +1,25 @@
+If you are using the ActiveState Perl distribution on Windows, you can install a binary version of the DBI and DBD::DB2 modules.
+
+Prerequisites: 
+
+	ActivePerl 5.8 or later 
+	DB2 client, Version 8.1 or later 
+
+You can install the DBD::DB2 module by following the instructions outlined at: http://ftp.esoftmatic.com/DBI using the latest available binary version of DBI and DBD::DB2. 
+
+For example, if you have ActivePerl 5.8.7 installed and only the 5.8.4 modules are available from the esoftmatic repository: 
+
+Install the DBI module by issuing the following command (the DBI module is a prerequisite for the DBD::DB2 module): 
+	ppm install http://ftp.esoftmatic.com/outgoing/DBI/5.8.4/DBI.ppd
+
+Install the DBD::DB2 module by issuing the following command: 
+	ppm install http://ftp.esoftmatic.com/outgoing/DBI/5.8.4/DBD-DB2.ppd
+
+To uninstall the DBD-DB2 module, issue: 
+	ppm uninstall DBD-DB2
+
+Alternatively, you can download the corresponding DBD-DB2.ppd and .tar.gz files from http://ftp.esoftmatic.com/DBI and install them locally by issuing the following command: 
+	ppm install DBD-DB2.ppd
+
+When the DBD::DB2 module is successfully installed, you can access documentation and a sample application by issuing the following command: 
+	perldoc DBD::DB2 
